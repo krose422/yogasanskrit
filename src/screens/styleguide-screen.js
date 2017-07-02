@@ -8,7 +8,9 @@ import {
  View,
  Text
 } from 'react-native';
-import poses from 'PosesData'
+
+import poses from 'PosesData';
+import Icon from 'MyIcon';
 
 class StyleguideScreen extends React.Component {
   constructor(props) {
@@ -23,6 +25,7 @@ class StyleguideScreen extends React.Component {
     return (
       <View>
         <Text>HELLO WORLD</Text>
+        <Icon name="ardha-pincha-mayurasana" size={50} color="#000000" />
       </View>
     )
   }
