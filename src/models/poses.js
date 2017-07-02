@@ -7,8 +7,8 @@ import images from 'Images';
 const poses = [
   {
     id: 0,
-    sanskritName: 'Adho Mukha Svanasa',
-    englishName: '',
+    sanskritName: 'Adho Mukha Svanasana',
+    englishName: 'Downward-Facing Dog',
     imageUrl: '',
     description: '',
     tips: [
@@ -21,7 +21,7 @@ const poses = [
   {
     id: 1,
     sanskritName: 'Adho Mukha Vrksasana',
-    englishName: '',
+    englishName: 'Handstand',
     imageUrl: '',
     description: '',
     tips: [
@@ -34,7 +34,7 @@ const poses = [
   {
     id: 2,
     sanskritName: 'Ananda Balasana',
-    englishName: '',
+    englishName: 'Happy Baby Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -47,7 +47,7 @@ const poses = [
   {
     id: 3,
     sanskritName: 'Ardha Anuvittasana',
-    englishName: '',
+    englishName: 'Standing Backbend',
     imageUrl: '',
     description: '',
     tips: [
@@ -64,7 +64,7 @@ const poses = [
   {
     id: 4,
     sanskritName: 'Ardha Matsyendrasana',
-    englishName: '',
+    englishName: 'Half Lord of the Fishes Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -81,7 +81,7 @@ const poses = [
   {
     id: 5,
     sanskritName: 'Ardha Pincha Mayurasana',
-    englishName: '',
+    englishName: 'Dolphin Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -98,7 +98,7 @@ const poses = [
   {
     id: 6,
     sanskritName: 'Ardha Uttanasana',
-    englishName: '',
+    englishName: 'Standing Half Forward Bend',
     imageUrl: '',
     description: '',
     tips: [
@@ -115,7 +115,7 @@ const poses = [
   {
     id: 7,
     sanskritName: 'Ashtangasana',
-    englishName: '',
+    englishName: 'Eight-Limbed Pose ',
     imageUrl: '',
     description: '',
     tips: [
@@ -132,7 +132,7 @@ const poses = [
   {
     id: 8,
     sanskritName: 'Ashwa Sanchalanasana',
-    englishName: '',
+    englishName: 'Lunge Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -149,7 +149,7 @@ const poses = [
   {
     id: 9,
     sanskritName: 'Astavakrasana',
-    englishName: '',
+    englishName: 'Eight-Angle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -166,7 +166,7 @@ const poses = [
   {
     id: 10,
     sanskritName: 'Baddha Konasana',
-    englishName: '',
+    englishName: 'Bound Angle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -182,8 +182,8 @@ const poses = [
   },
   {
     id: 11,
-    sanskritName: 'Baddha Parsvokanasana',
-    englishName: '',
+    sanskritName: 'Baddha Parsvakonasana',
+    englishName: 'Bound Side Angle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -200,7 +200,7 @@ const poses = [
   {
     id: 12,
     sanskritName: 'Bakasana',
-    englishName: '',
+    englishName: 'Crane Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -217,7 +217,7 @@ const poses = [
   {
     id: 13,
     sanskritName: 'Balasana',
-    englishName: '',
+    englishName: 'Child\'s Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -233,8 +233,8 @@ const poses = [
   },
   {
     id: 14,
-    sanskritName: 'Bhuja Vrischikasana',
-    englishName: '',
+    sanskritName: 'Bhuja Vrschikasana',
+    englishName: 'Arm Balance Scorpion Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -251,7 +251,7 @@ const poses = [
   {
     id: 15,
     sanskritName: 'Bhujangasana',
-    englishName: '',
+    englishName: 'Cobra Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -268,7 +268,7 @@ const poses = [
   {
     id: 16,
     sanskritName: 'Bitilasana',
-    englishName: '',
+    englishName: 'Cow Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -285,7 +285,7 @@ const poses = [
   {
     id: 17,
     sanskritName: 'Camatkarasana',
-    englishName: '',
+    englishName: 'Wild Thing Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -302,7 +302,7 @@ const poses = [
   {
     id: 18,
     sanskritName: 'Chaturanga Dandasana',
-    englishName: '',
+    englishName: 'Four-Limbed Staff Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -319,7 +319,7 @@ const poses = [
   {
     id: 19,
     sanskritName: 'Dandayamana Dhanurasana',
-    englishName: '',
+    englishName: 'Standing Bow Pulling Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -336,7 +336,7 @@ const poses = [
   {
     id: 20,
     sanskritName: 'Dhanurasana',
-    englishName: '',
+    englishName: 'Bow Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -353,7 +353,7 @@ const poses = [
   {
     id: 21,
     sanskritName: 'Dwi Pada Viparita Dandasana',
-    englishName: '',
+    englishName: 'Upward Facing Two-Foot Staff Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -369,8 +369,8 @@ const poses = [
   },
   {
     id: 22,
-    sanskritName: 'Eka Pada Adho Mukha Svanasa',
-    englishName: '',
+    sanskritName: 'Eka Pada Adho Mukha Svanasana',
+    englishName: 'Three Legged Downward-Facing Dog',
     imageUrl: '',
     description: '',
     tips: [
@@ -386,8 +386,8 @@ const poses = [
   },
   {
     id: 23,
-    sanskritName: 'Eka Pada Adho Mukha Svanasa',
-    englishName: '',
+    sanskritName: 'Eka Pada Galavasana',
+    englishName: 'Flying Pigeon Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -403,8 +403,8 @@ const poses = [
   },
   {
     id: 24,
-    sanskritName: 'Eka Pada Galavasana',
-    englishName: '',
+    sanskritName: 'Eka Pada Rajakapotasana',
+    englishName: 'One-Legged King Pigeon Pose Mermaid Variation',
     imageUrl: '',
     description: '',
     tips: [
@@ -420,8 +420,8 @@ const poses = [
   },
   {
     id: 25,
-    sanskritName: 'Eka Pada Raja Kapotasana',
-    englishName: '',
+    sanskritName: 'Eka Pada Rajakapotasa',
+    englishName: 'One-Legged King Pigeon Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -437,8 +437,8 @@ const poses = [
   },
   {
     id: 26,
-    sanskritName: 'Eka Pada Rajakapotasa',
-    englishName: '',
+    sanskritName: 'Eka Pada Rajakapotasana 2',
+    englishName: 'One-Legged King Pigeon Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -454,7 +454,7 @@ const poses = [
   },
   {
     id: 27,
-    sanskritName: 'Eka Pada Rajakapotasana 2',
+    sanskritName: 'Eagle Pose',
     englishName: '',
     imageUrl: '',
     description: '',
@@ -471,8 +471,8 @@ const poses = [
   },
   {
     id: 28,
-    sanskritName: 'Garudasana',
-    englishName: '',
+    sanskritName: 'Gomukhasana',
+    englishName: 'Cow Face Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -488,8 +488,8 @@ const poses = [
   },
   {
     id: 29,
-    sanskritName: 'Gomukhasana',
-    englishName: '',
+    sanskritName: 'Halasana',
+    englishName: 'Plow Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -505,8 +505,8 @@ const poses = [
   },
   {
     id: 30,
-    sanskritName: 'Halasana',
-    englishName: '',
+    sanskritName: 'Hanumanasana',
+    englishName: 'Monkey Pose (Or Full Splits)',
     imageUrl: '',
     description: '',
     tips: [
@@ -522,8 +522,8 @@ const poses = [
   },
   {
     id: 31,
-    sanskritName: 'Hanumanasana',
-    englishName: '',
+    sanskritName: 'Kapotasana',
+    englishName: 'Pigeon Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -539,8 +539,8 @@ const poses = [
   },
   {
     id: 32,
-    sanskritName: 'Kapotasana',
-    englishName: '',
+    sanskritName: 'Laghu Vajrasana',
+    englishName: 'Little Thunderbolt Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -556,8 +556,8 @@ const poses = [
   },
   {
     id: 33,
-    sanskritName: 'Laghu Vajrasana',
-    englishName: '',
+    sanskritName: 'Maksikanagasana',
+    englishName: 'Dragon Fly Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -573,8 +573,8 @@ const poses = [
   },
   {
     id: 34,
-    sanskritName: 'Maksikanagasana',
-    englishName: '',
+    sanskritName: 'Malasana',
+    englishName: 'Garland Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -590,8 +590,47 @@ const poses = [
   },
   {
     id: 35,
-    sanskritName: 'Malasana',
-    englishName: '',
+    sanskritName: 'Marichyasana',
+    englishName: 'Pose Dedicated to the Sage Marichi',
+    imageUrl: '',
+    description: '',
+    tips: [
+      {
+        id: 0,
+        tip: ''
+      }
+    ]
+  },
+  {
+    id: 36,
+    sanskritName: 'Marjaryasana',
+    englishName: 'Cat Pose',
+    imageUrl: '',
+    description: '',
+    tips: [
+      {
+        id: 0,
+        tip: ''
+      }
+    ]
+  },
+  {
+    id: 37,
+    sanskritName: 'Mayurasana',
+    englishName: 'Peacock Pose',
+    imageUrl: '',
+    description: '',
+    tips: [
+      {
+        id: 0,
+        tip: ''
+      }
+    ]
+  },
+  {
+    id: 38,
+    sanskritName: 'Natarajasana',
+    englishName: 'Lord of the Dance Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -606,48 +645,9 @@ const poses = [
     ]
   },
   {
-    id: 36,
-    sanskritName: 'Marichyasana',
-    englishName: '',
-    imageUrl: '',
-    description: '',
-    tips: [
-      {
-        id: 0,
-        tip: ''
-      }
-    ]
-  },
-  {
-    id: 37,
-    sanskritName: 'Marjaryasana',
-    englishName: '',
-    imageUrl: '',
-    description: '',
-    tips: [
-      {
-        id: 0,
-        tip: ''
-      }
-    ]
-  },
-  {
-    id: 38,
-    sanskritName: 'Mayurasana',
-    englishName: '',
-    imageUrl: '',
-    description: '',
-    tips: [
-      {
-        id: 0,
-        tip: ''
-      }
-    ]
-  },
-  {
     id: 39,
-    sanskritName: 'Natarajasana',
-    englishName: '',
+    sanskritName: 'Padmasana',
+    englishName: 'Lotus Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -663,8 +663,8 @@ const poses = [
   },
   {
     id: 40,
-    sanskritName: 'Padmasana',
-    englishName: '',
+    sanskritName: 'Paripurna Navasana',
+    englishName: 'Boat Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -680,8 +680,8 @@ const poses = [
   },
   {
     id: 41,
-    sanskritName: 'Paripurna Navasana',
-    englishName: '',
+    sanskritName: 'Parivrtta Parsvakonasana',
+    englishName: 'Revolved Side Angle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -697,8 +697,8 @@ const poses = [
   },
   {
     id: 42,
-    sanskritName: 'Parivrtta Parsvakonasana',
-    englishName: '',
+    sanskritName: 'Parivrtta Surya Yantrasana',
+    englishName: 'Compass Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -714,8 +714,8 @@ const poses = [
   },
   {
     id: 43,
-    sanskritName: 'Parivrtta Surya Yantrasana',
-    englishName: '',
+    sanskritName: 'Parivrtta Trikonasana',
+    englishName: 'Revolved Triangle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -731,8 +731,8 @@ const poses = [
   },
   {
     id: 44,
-    sanskritName: 'Parivrtta Surya Trikonasana',
-    englishName: '',
+    sanskritName: 'Parivrtta Ustrasana',
+    englishName: 'Camel Pose Variation',
     imageUrl: '',
     description: '',
     tips: [
@@ -748,8 +748,8 @@ const poses = [
   },
   {
     id: 45,
-    sanskritName: 'Parivrtta Ustrasana',
-    englishName: '',
+    sanskritName: 'Parivrtta Utkatasana',
+    englishName: 'Revolved Chair Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -765,8 +765,8 @@ const poses = [
   },
   {
     id: 46,
-    sanskritName: 'Parivrtta Utkatasana',
-    englishName: '',
+    sanskritName: 'Parsva Bakasana',
+    englishName: 'Side Crow Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -782,8 +782,8 @@ const poses = [
   },
   {
     id: 47,
-    sanskritName: 'Parsva Bakasana',
-    englishName: '',
+    sanskritName: 'Pincha Mayurasana',
+    englishName: 'Feathered Peacock Pose or Forearm Stand',
     imageUrl: '',
     description: '',
     tips: [
@@ -799,8 +799,8 @@ const poses = [
   },
   {
     id: 48,
-    sanskritName: 'Pincha Mayurasana',
-    englishName: '',
+    sanskritName: 'Purvottanasana',
+    englishName: 'Upward Plank Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -816,8 +816,8 @@ const poses = [
   },
   {
     id: 49,
-    sanskritName: 'Purvottanasana',
-    englishName: '',
+    sanskritName: 'Salabhasana',
+    englishName: 'Locust Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -833,8 +833,8 @@ const poses = [
   },
   {
     id: 50,
-    sanskritName: 'Salabhasana',
-    englishName: '',
+    sanskritName: 'Salamba Bhujangasana',
+    englishName: 'Sphinx Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -850,8 +850,8 @@ const poses = [
   },
   {
     id: 51,
-    sanskritName: 'Salamba Bhujangasana',
-    englishName: '',
+    sanskritName: 'Salamba Sarvangasana',
+    englishName: 'Shoulderstand',
     imageUrl: '',
     description: '',
     tips: [
@@ -867,8 +867,8 @@ const poses = [
   },
   {
     id: 52,
-    sanskritName: 'Salamba Sarvangasana',
-    englishName: '',
+    sanskritName: 'Setu Bandha Sarvangasana',
+    englishName: 'Bridge Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -884,8 +884,8 @@ const poses = [
   },
   {
     id: 53,
-    sanskritName: 'Setu Bandha Sarvangasana',
-    englishName: '',
+    sanskritName: 'Sirsasana 2',
+    englishName: 'Tripod Headstand',
     imageUrl: '',
     description: '',
     tips: [
@@ -901,8 +901,8 @@ const poses = [
   },
   {
     id: 54,
-    sanskritName: 'Sirsasana 2',
-    englishName: '',
+    sanskritName: 'Svarga Dvidasana',
+    englishName: 'Bird of Paradise Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -918,8 +918,8 @@ const poses = [
   },
   {
     id: 55,
-    sanskritName: 'Svarga Dvidasana',
-    englishName: '',
+    sanskritName: 'Tadasana',
+    englishName: 'Mountain Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -935,8 +935,8 @@ const poses = [
   },
   {
     id: 56,
-    sanskritName: 'Tadasana',
-    englishName: '',
+    sanskritName: 'Tadasana 2',
+    englishName: 'Mountain Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -952,8 +952,8 @@ const poses = [
   },
   {
     id: 57,
-    sanskritName: 'Tadasana 2',
-    englishName: '',
+    sanskritName: 'Tittibhasana',
+    englishName: 'Firefly Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -969,8 +969,8 @@ const poses = [
   },
   {
     id: 58,
-    sanskritName: 'Tittibhasana',
-    englishName: '',
+    sanskritName: 'Urdhva Dhanurasana',
+    englishName: 'Upward Bow Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -986,8 +986,8 @@ const poses = [
   },
   {
     id: 59,
-    sanskritName: 'Urdha Dhanurasana',
-    englishName: '',
+    sanskritName: 'Urdha Mukha Svanasana',
+    englishName: 'Upward-Facing Dog Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1003,8 +1003,8 @@ const poses = [
   },
   {
     id: 60,
-    sanskritName: 'Urdha Mukha Svanasana',
-    englishName: '',
+    sanskritName: 'Utkatasana',
+    englishName: 'Chair Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1020,8 +1020,8 @@ const poses = [
   },
   {
     id: 61,
-    sanskritName: 'Utkatasana',
-    englishName: '',
+    sanskritName: 'Ustrasana',
+    englishName: 'Camel Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1037,8 +1037,8 @@ const poses = [
   },
   {
     id: 62,
-    sanskritName: 'Utrasana',
-    englishName: '',
+    sanskritName: 'Uttana Shishosana',
+    englishName: 'Extended Puppy Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1054,8 +1054,8 @@ const poses = [
   },
   {
     id: 63,
-    sanskritName: 'Uttana Shishosana',
-    englishName: '',
+    sanskritName: 'Uttanasana',
+    englishName: 'Standing Forward Bend',
     imageUrl: '',
     description: '',
     tips: [
@@ -1071,8 +1071,8 @@ const poses = [
   },
   {
     id: 64,
-    sanskritName: 'Uttanasana',
-    englishName: '',
+    sanskritName: 'Utthan Pristhasana',
+    englishName: 'Lizard Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1088,8 +1088,8 @@ const poses = [
   },
   {
     id: 65,
-    sanskritName: 'Utthan Pristhasana',
-    englishName: '',
+    sanskritName: 'Utthita Parsvakonasana',
+    englishName: 'Extended Side Angle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1105,8 +1105,8 @@ const poses = [
   },
   {
     id: 66,
-    sanskritName: 'Utthita Parsvakonasana',
-    englishName: '',
+    sanskritName: 'Utthita Trikonasana',
+    englishName: 'Extended Triangle Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1122,8 +1122,8 @@ const poses = [
   },
   {
     id: 67,
-    sanskritName: 'Utthita Trikonasana',
-    englishName: '',
+    sanskritName: 'Utthita Chaturanga Dandasana',
+    englishName: 'Plank Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1139,8 +1139,8 @@ const poses = [
   },
   {
     id: 68,
-    sanskritName: 'Uttihita Chaturanga Dandasana',
-    englishName: '',
+    sanskritName: 'Vasisthasana',
+    englishName: 'Side Plank Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1156,8 +1156,8 @@ const poses = [
   },
   {
     id: 69,
-    sanskritName: 'Vasisthasana',
-    englishName: '',
+    sanskritName: 'Viparita Virabhadrasana',
+    englishName: 'Reverse Warrior Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1173,8 +1173,8 @@ const poses = [
   },
   {
     id: 70,
-    sanskritName: 'Viparita Virabhadrasana 2',
-    englishName: '',
+    sanskritName: 'Virabhadrasana 1',
+    englishName: 'Warrior I Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1190,8 +1190,8 @@ const poses = [
   },
   {
     id: 71,
-    sanskritName: 'Virabhadrasana 1',
-    englishName: '',
+    sanskritName: 'Virabhadrasana II',
+    englishName: 'Warrior II Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1207,8 +1207,8 @@ const poses = [
   },
   {
     id: 72,
-    sanskritName: 'Virabhadrasana 2',
-    englishName: '',
+    sanskritName: 'Virabhadrasana III',
+    englishName: 'Warrior III Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1224,8 +1224,8 @@ const poses = [
   },
   {
     id: 73,
-    sanskritName: 'Virabhadrasana 3',
-    englishName: '',
+    sanskritName: 'Vrksasana',
+    englishName: 'Tree Pose',
     imageUrl: '',
     description: '',
     tips: [
@@ -1241,25 +1241,8 @@ const poses = [
   },
   {
     id: 74,
-    sanskritName: 'Vrikshasana',
-    englishName: '',
-    imageUrl: '',
-    description: '',
-    tips: [
-      {
-        id: 0,
-        tip: ''
-      },
-      {
-        id: 1,
-        tip: ''
-      }
-    ]
-  },
-  {
-    id: 75,
-    sanskritName: 'Vrischikasana',
-    englishName: '',
+    sanskritName: 'Vrschikasana',
+    englishName: 'Scorpion Pose',
     imageUrl: '',
     description: '',
     tips: [
