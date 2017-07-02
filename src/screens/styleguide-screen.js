@@ -8,6 +8,7 @@ import {
  View,
  Text
 } from 'react-native';
+import poses from 'PosesData'
 
 class StyleguideScreen extends React.Component {
   constructor(props) {
@@ -15,6 +16,7 @@ class StyleguideScreen extends React.Component {
     this.state = {
       name: "Kelley"
     };
+    console.log('poses', poses)
   }
 
   render() {

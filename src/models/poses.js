@@ -1257,3 +1257,5 @@ const poses = [
     ]
   }
 ]
+
+export default poses
