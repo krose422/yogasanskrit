@@ -11,6 +11,7 @@ import {
 
 import poses from 'PosesData';
 import Icon from 'MyIcon';
+import LargeText from 'LargeText';
 
 class StyleguideScreen extends React.Component {
   constructor(props) {
@@ -24,7 +25,8 @@ class StyleguideScreen extends React.Component {
   render() {
     return (
       <View>
-        <Text>HELLO WORLD</Text>
+        <LargeText
+          bold={true}>HELLO WORLD</LargeText>
         <Icon name="ardha-pincha-mayurasana" size={50} color="#000000" />
       </View>
     )
