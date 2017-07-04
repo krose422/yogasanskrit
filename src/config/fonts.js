@@ -1,6 +1,6 @@
 /**
- * @providesModule Fonts
- */
+* @providesModule Fonts
+*/
 
 const fonts = {
   openSansLight:'OpenSans-Light',
