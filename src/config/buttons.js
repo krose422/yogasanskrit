@@ -14,8 +14,7 @@ const buttonStyles = StyleSheet.create({
   buttonOutline: {
     height: 42,
     borderRadius: 3,
-    borderWidth: 2 ,
-    borderRadius: 3
+    borderWidth: 2 
   },
   buttonOutlineDark: {
     ...buttonOutline,
