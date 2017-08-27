@@ -7,14 +7,15 @@
  import { StackNavigator } from 'react-navigation';
 
  import StyleguideScreen from 'StyleguideScreen';
+ import PosesScreen from 'PosesScreen';
 
  const MainStack = StackNavigator({
-   Styleguide: {
-     screen: StyleguideScreen,
+   Poses: {
+     screen: PosesScreen,
      navigationOptions: ({navigation}) => ({
-       title: 'Styleguide'
+       title: 'Poses'
      }),
-     path: '/styleguide'
+     path: '/poses'
    }
  }, {
    headerMode: 'none'

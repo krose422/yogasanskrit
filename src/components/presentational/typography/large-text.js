@@ -7,8 +7,8 @@ import {
   StyleSheet,
   Text
 } from 'react-native';
-import textStyles from 'TextStyles'
-import colors from 'Colors'
+import textStyles from 'TextStyles';
+import colors from 'Colors';
 
 class LargeText extends React.Component {
   render() {
@@ -24,11 +24,11 @@ class LargeText extends React.Component {
       </Text>
     )
   }
-}
+};
 
 LargeText.defaultProps = {
-  color: '#333333',
+  color: colors.night,
   bold: false
-}
+};
 
-export default LargeText
+export default LargeText;
